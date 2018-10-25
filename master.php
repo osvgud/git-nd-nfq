@@ -1,2 +1,2 @@
 <?php
-    echo 'master';
+    echo 'mastr';
